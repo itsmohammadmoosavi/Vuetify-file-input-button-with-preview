@@ -22,6 +22,7 @@
       </h4>
       <v-file-input
         v-model="selectedFile"
+        accept="image/*"
         hide-input
         class="custom-upload"
       ></v-file-input>
@@ -42,7 +43,7 @@
 export default {
   data() {
     return {
-      selectedFile: "",
+      selectedFile: null,
     };
   },
   computed: {
