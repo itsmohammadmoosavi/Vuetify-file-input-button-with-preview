@@ -1,5 +1,7 @@
 # Vuetify-file-input-button-with-preview
 This is a Vuetify Upload button for those who wants to use upload image button in vuetify and doesnt like the Paperclip icon and input form in front of it.
+DEMO LINK
+https://codesandbox.io/s/github/itsmohammadmoosavi/Vuetify-file-input-button-with-preview
 
 Feel Free to use it and enjoy <3
 
